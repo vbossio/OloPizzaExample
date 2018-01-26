@@ -1,0 +1,9 @@
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\bin\Debug\OloPizzaExample.exe.config
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\bin\Debug\OloPizzaExample.exe
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\bin\Debug\OloPizzaExample.pdb
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\obj\Debug\OloPizzaExample.csprojResolveAssemblyReference.cache
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\obj\Debug\OloPizzaExample.csproj.CoreCompileInputs.cache
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\obj\Debug\OloPizzaExample.exe
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\obj\Debug\OloPizzaExample.pdb
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vboss\source\repos\OloPizzaExample\OloPizzaExample\bin\Debug\Newtonsoft.Json.xml
